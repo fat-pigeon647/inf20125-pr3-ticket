@@ -1,0 +1,3 @@
+litros
+tests/*.err
+tests/*.out
